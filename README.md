@@ -12,7 +12,7 @@ steal browser data, saved passwords or browser cookies.
 (This tool Updates Weekly with new stealers stay tuned!)
 
 # requierments
-Admin Permissions
+Admin Permissions and
 Requierments.txt downloaded succesfully.
 
 # EDUCATIONAL PURPOSE ONLY

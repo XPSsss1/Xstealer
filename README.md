@@ -1,4 +1,4 @@
-![Screenshot](Skjermbilde 2025-06-02 220804.png)
+![Screenshot](screenshotye.png)
 
 # Xstealer
 welcome to Xstealer.

@@ -1,4 +1,5 @@
-![Screenshot](screenshotye.png)
+![Preview](screenshotye.png)
+
 
 # Xstealer
 welcome to Xstealer.

